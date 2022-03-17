@@ -1,1 +1,1 @@
-'MY first readme'
+This is a practice to Github
